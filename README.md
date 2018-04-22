@@ -1,2 +1,3 @@
 # google-homepage
-Odin Project first project
+Created Google Search page using HTML & CSS
+
